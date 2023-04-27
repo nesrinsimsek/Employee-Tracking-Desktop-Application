@@ -1,0 +1,12 @@
+C:\Users\nesri\source\repos\StajProje1\StajProje1\bin\Debug\StajProje1.exe.config
+C:\Users\nesri\source\repos\StajProje1\StajProje1\bin\Debug\StajProje1.exe
+C:\Users\nesri\source\repos\StajProje1\StajProje1\bin\Debug\StajProje1.pdb
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.csproj.AssemblyReference.cache
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.Form1.resources
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.Properties.Resources.resources
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.csproj.GenerateResource.cache
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.csproj.CoreCompileInputs.cache
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.exe
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.pdb
+C:\Users\nesri\source\repos\StajProje1\StajProje1\obj\Debug\StajProje1.Form2.resources
